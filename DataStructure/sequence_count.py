@@ -9,4 +9,4 @@ from collections import Counter
 
 seq = [randint(0, 20) for _ in range(30)]
 c = Counter(seq)            # 得到元素频度字典
-print("Counter:", c.most_common(3))     # 得到元素频度最高的3个元素
+print("Counter:", c.most_common(3))     # 得到元素频度最高的前3个元素
