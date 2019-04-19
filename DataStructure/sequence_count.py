@@ -1,5 +1,5 @@
 from random import randint
-from collections import  Counter
+from collections import Counter
 
 # 统计频度出现最高的三个数
 '''
