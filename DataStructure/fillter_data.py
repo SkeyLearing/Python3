@@ -1,4 +1,4 @@
-
+# 常用的数据解析
 from random import randint
 
 '''
