@@ -3,7 +3,7 @@ from collections import Counter
 
 # 统计频度出现最高的三个数
 '''
-    将序列传入 Counter 的构造器，得到Counter对象时元素频度的字典。
+    将序列传入 Counter 的构造器，得到Counter对象时元素频度的字典
     Counter.most_common(n) 得到的时频度最高的n个元素
 '''
 
