@@ -12,7 +12,7 @@ import requests
 # 依据上述理论实现 demo1 中的天气迭代器
 
 
-class IteratorDemo():
+class IteratorDemo:
     def __init__(self, cities):
         self.cities = cities
         self.index = 0
